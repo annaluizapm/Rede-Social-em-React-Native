@@ -215,9 +215,7 @@ npm start
 - `PUT /api/users/profile` - Atualizar perfil
 - `POST /api/users/avatar` - Upload de avatar
 
-## 🎨 Capturas de Tela
 
-> 📸 *Adicione aqui capturas de tela da sua aplicação*
 
 ## 🤝 Contribuindo
 
@@ -227,9 +225,6 @@ npm start
 4. Push para a branch (`git push origin feature/AmazingFeature`)
 5. Abra um Pull Request
 
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ## 👩‍💻 Autora
 
@@ -237,15 +232,6 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 - GitHub: [@annaluizapm](https://github.com/annaluizapm)
 - Email: annaluizapm2007@gmail.com
 
-## 🚀 Próximas Funcionalidades
-
-- [ ] Sistema de notificações push
-- [ ] Chat privado entre usuários
-- [ ] Compartilhamento de posts
-- [ ] Sistema de hashtags
-- [ ] Modo escuro
-- [ ] Histórias (stories)
-- [ ] Verificação de conta
 
 ## 🐛 Problemas Conhecidos
 
@@ -264,4 +250,4 @@ Se você encontrar algum problema, por favor:
 
 ---
 
-⭐ Se este projeto te ajudou, não esqueça de dar uma estrela!
+
